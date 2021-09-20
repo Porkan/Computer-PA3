@@ -3,12 +3,12 @@ body{
   text-align: center;
   background-color: #7FC8A9
 }
-.top-cloud{
+.up-cloud{
   left: 38%;
   position: relative;
   padding-top: 30px;
 }
-.bottom-cloud{
+.down-cloud{
   position: absolute;
   left:66px;
 }
